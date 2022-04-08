@@ -1,8 +1,0 @@
-{
-    "token": "OTYwMDQ2NzUxNTgxMDg5Nzky.YkkvNg.mYJb3Tm_EV0UgmwCJZ2an2NVTyY",
-    "prefix": "n<",
-    "dbLink": "mongodb+srv://chiraitori:<password>@cluster0.9ha2n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "lavaHost": "lavalink.islantay.tk",
-    "lavaPort": "8880",
-    "lavaPasswd": "waifufufufu"
-}
