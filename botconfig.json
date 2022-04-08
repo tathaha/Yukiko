@@ -1,0 +1,15 @@
+{
+
+    "token": "process.env.TOKEN",
+
+    "prefix": "n<",
+
+    "dbLink": "mongodb+srv://chiraitori:<password>@cluster0.9ha2n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+    "lavaHost": "lavalink.islantay.tk",
+
+    "lavaPort": "8880",
+
+    "lavaPasswd": "waifufufufu"
+
+}
