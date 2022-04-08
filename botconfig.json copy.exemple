@@ -1,8 +1,8 @@
 {
-    "token": "Bot tokken",
-    "prefix": "a!",
-    "dbLink": "mongodb://yukiko:127.0.0.1",
-    "lavaHost": "localhost",
-    "lavaPort": "2333",
-    "lavaPasswd": "youshallnotpass"
+    "token": "OTYwMDQ2NzUxNTgxMDg5Nzky.YkkvNg.mYJb3Tm_EV0UgmwCJZ2an2NVTyY",
+    "prefix": "n<",
+    "dbLink": "mongodb+srv://chiraitori:<password>@cluster0.9ha2n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "lavaHost": "lavalink.islantay.tk",
+    "lavaPort": "8880",
+    "lavaPasswd": "waifufufufu"
 }
